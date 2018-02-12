@@ -1,0 +1,3 @@
+invoke==0.22.1
+mysqlclient==1.3.12
+pep8==1.7.1
